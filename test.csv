@@ -1,4 +1,4 @@
-PassengerID,Pclass,Name,Seks,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+PassengerID,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 892,3,"Kelly, Mr. James",male,34.5,0,0,330911,78.292,,Q
 893,3,"Connolly, Miss. Kate",female,30.0,0,0,330972,76.292,,Q
 894,1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,113781,1.515.500,C22 C26,S
